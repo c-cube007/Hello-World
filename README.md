@@ -1,6 +1,6 @@
-# Hello-World
+# Hello-People
 
-Hi, I am Chiekwe Collins
+# Hi, I am Chiekwe Collins
 
 I am an early frontend developer, currently working on Javascript and Bootstrap.
 
